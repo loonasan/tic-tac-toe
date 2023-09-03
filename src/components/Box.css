@@ -14,11 +14,11 @@
 }
 
 .x{
-    color: red;
+    color: rgb(255, 70, 37);
 }
 
 .o{
-    color:blue
+    color:rgb(44, 135, 255)
 }
 
 .box:hover{
